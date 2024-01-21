@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import './App.css'; //******************de particularizat */
+import './App.css';
 import Section from './Section';
 import FeedbackOptions from './FeedbackOptions';
 import Statistics from './Statistics';
